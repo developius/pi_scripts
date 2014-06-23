@@ -1,2 +1,2 @@
-Pi_scripts
+pi_scripts
 ==========

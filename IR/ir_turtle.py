@@ -53,6 +53,7 @@ cur.write("Finnian's Magic Wand", False, align="center", font=("Arial",15,"norma
 cur.left(180)
 cur.setpos(0,0)
 cur.pendown()
+
 while True:
 	incomming = lirc.nextcode()[0]
 	if incomming:
